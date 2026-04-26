@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-🚀 A machine learning project to predict customer churn and analyze key retention factors.
+🚀 A machine learning project to predict customer churn and analyze key factors affecting customer retention using Python.
 
 📉 Customer Churn Analysis (Python)
 
@@ -22,6 +22,30 @@ This project predicts customer churn using machine learning and identifies key f
 * Achieved 81% accuracy using Logistic Regression
 * Customers with longer tenure are less likely to churn
 * Contract type significantly impacts churn behavior
+
+## 💡 Business Interpretation
+
+* Customers on month-to-month contracts are more likely to churn  
+* Higher monthly charges increase churn probability  
+* Customers with low tenure are at higher risk of leaving  
+
+## 🖼 Output Preview  
+
+### 📊 Churn Distribution  
+
+![Churn Distribution](churn-distribution.png)
+
+### 📄 Churn by Contract Type  
+
+![Contract](churn-contract.png)
+
+### 💰 Churn vs Monthly Charges  
+
+![Charges](churn-monthly-charges.png)
+
+### ⏳ Churn vs Tenure  
+
+![Tenure](churn-tenure.png)
 
 ## 🤖 Model Used
 * Logistic Regression
