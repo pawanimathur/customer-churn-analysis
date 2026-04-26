@@ -1,33 +1,49 @@
 # Customer Churn Prediction
 
-## 📌 Project Overview
-This project predicts customer churn using Machine Learning and identifies key factors influencing customer retention.
+🚀 A machine learning project to predict customer churn and analyze key retention factors.
 
-## 🎯 Objective
-- Understand customer behavior
-- Identify churn drivers
-- Build a predictive model
+📉 Customer Churn Analysis (Python)
+
+## 📌 Project Overview
+This project predicts customer churn using machine learning and identifies key factors that influence customer retention.
+
+## 🎯 Objectives
+Predict whether a customer will churn
+Identify key drivers of churn
+Help businesses improve customer retention
 
 ## 🛠 Tools & Technologies
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
+Python
+Pandas, NumPy
+Matplotlib, Seaborn
+Scikit-learn
 
 ## 📊 Key Insights
-- Customers with high monthly charges are more likely to churn
-- Long term customers show lower churn rates
-- Contract type significantly impacts churn
+Achieved 81% accuracy using Logistic Regression
+Customers with longer tenure are less likely to churn
+Contract type significantly impacts churn behavior
 
 ## 🤖 Model Used
-- Logistic Regression
-- Accuracy: 81%
+Logistic Regression
+Accuracy: 81%
+
+## 🚀 Project Workflow
+Data cleaning and preprocessing
+Exploratory Data Analysis (EDA)
+Feature selection
+Model building (Logistic Regression)
+Model evaluation
 
 ## 📁 Dataset
 - Telco Customer Churn Dataset (7000 records)
 
 ## 📌 Outcome
-Generated actionable insights to help improve customer retention strategies.
+Provided actionable insights that can help businesses reduce churn and improve customer retention strategies.
+
+📂 Files in Repository
+*.ipynb → Jupyter Notebook
+Dataset file
+Model code
 
 ## 🔗 Project File
 See the notebook above for full analysis.
